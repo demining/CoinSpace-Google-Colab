@@ -1,4 +1,9 @@
-# Coin Wallet
+-------------------------
+### Run CoinSpace-Google-Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
 
 [![Build](https://github.com/coinspace/coinspace/actions/workflows/ci.yml/badge.svg)](https://github.com/CoinSpace/CoinSpace/actions/workflows/ci.yml)
 [![Downloads](https://img.shields.io/github/downloads/coinspace/coinspace/total)](https://github.com/CoinSpace/CoinSpace/releases)
